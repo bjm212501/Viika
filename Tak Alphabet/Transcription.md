@@ -1,4 +1,4 @@
-# Tak Alphabet - 塔克字母转写表
+# Tak Alphabet Transcription - 塔克字母转写表
 
 ## 基本字母
 | 序号 | unicode字符 | IPA | 英式转写 | 拉丁转写 | 西里尔转写 |
