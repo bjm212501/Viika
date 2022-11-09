@@ -2,7 +2,7 @@
 
 | 0xXX | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 0x0X | space | comma | period | colon | semicolon | quote | apostrophe | hypen | grave | underscore | tilde | 0 | 1 | 2 | 3 | 4 |
+| 0x0X | space | comma | period | colon | semicolon | quote | apostrophe | hypen | dot | underscore | tilde | 0 | 1 | 2 | 3 | 4 |
 | 0x1X | left exclam | right exclam | left question | right question | left paren | right paren | left bracket | right bracket | left angle paren | right angle paren | _money sign_ | 5 | 6 | 7 | 8 | 9 |
 | 0x2X | Tak Capital Letter Alfa | Tak Capital Letter Beta | Tak Capital Letter Vida | Tak Capital Letter Gopa | Tak Capital Letter Ghama | Tak Capital Letter Delta | Tak Capital Letter Epsilon | Tak Capital Letter Zhoma | Tak Capital Letter Alef | Tak Capital Letter Yita | Tak Capital Letter Iota | Tak Capital Letter Kapa | Tak Capital Letter Lamda | Tak Capital Letter Mi | Tak Capital Letter Ni | Tak Capital Letter Ona |
 | 0x3X | Tak Capital Letter Pi | Tak Capital Letter Rro | Tak Capital Letter Sighma | Tak Capital Letter Taf | Tak Capital Letter Upsilon | Tak Capital Letter Futa | Tak Capital Letter Kheta | Tak Capital Letter Tsekh | Tak Capital Letter Richa | Tak Capital Letter Y Sign | Tak Capital Letter Waw | Tak Capital Letter Hard Sign | Combining Acute Accent | Combining Diaeresis | Combining Comma Above | Combining Descender |
