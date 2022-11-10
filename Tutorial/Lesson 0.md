@@ -1,6 +1,6 @@
 # 维卡语教学第0课 - 字母
 
-_注:如果您已经熟识国际音标(IPA),可以参考发音表并前两部分_
+_注:如果您已经熟识国际音标(IPA),可以参考发音表并[跳过前两部分](https://github.com/bjm212501/Viika/blob/main/Tutorial/Lesson%200.md#part-3-%E7%89%B9%E6%AE%8A%E6%8B%BC%E5%86%99%E8%A7%84%E5%88%99%E6%AD%A3%E5%AD%97%E6%B3%95)_
 
 ## Part 1 字母发音
 
